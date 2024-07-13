@@ -1,10 +1,8 @@
 #include <iostream>
 using namespace std;
 
-/* 
-    not illegal code 
-*/
-int main() 
+
+int main()
 {
     int N , smaller, position , input , i;
     i = position = 0;
