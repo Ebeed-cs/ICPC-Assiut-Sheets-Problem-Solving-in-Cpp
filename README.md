@@ -18,7 +18,8 @@ The repository is organized as follows:
 ```
 ICPC Assuit Sheets Problem Solving in Cpp/
 │   ├──Assuit Sheets link
-│   │   ├── link     
+│   │   │
+│   │   └── link     
 │   ├── sheet1/
 │   │   ├── problem1.cpp
 │   │   ├── problem2.cpp
