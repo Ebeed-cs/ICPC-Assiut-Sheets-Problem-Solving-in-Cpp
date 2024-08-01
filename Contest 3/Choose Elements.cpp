@@ -20,7 +20,7 @@ while( K --)
   if(A[--N] > 0)
     i += A[N];
   else
-    break;
+    break; // to prevent adding the negative elements to the summation and decrement it 
 }
 cout << i << endl;
  return 0;
