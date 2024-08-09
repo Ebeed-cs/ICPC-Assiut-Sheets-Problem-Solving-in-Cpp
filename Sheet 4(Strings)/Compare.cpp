@@ -14,7 +14,8 @@ int main(){
 		{
 			smaller = S1;
 			break;
-		}			else if(int(S1[i]) > int(S2[i]))
+		}
+		else if(int(S1[i]) > int(S2[i]))
 		{
 			smaller = S2;
 			break;
