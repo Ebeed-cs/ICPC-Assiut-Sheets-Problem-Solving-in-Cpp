@@ -12,7 +12,6 @@ int main()
   }
   int HN;
   N = i;
-  // HN = (N % 2 == 0)? N/2 : N/2 + 1 ;
   HN = N /2;
   i = 0;
   while( i  < HN)
